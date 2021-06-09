@@ -1,3 +1,7 @@
+  <a href="https://appwrite.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg"
+      alt="appwrite" width="40" height="40" />
+  </a>
 ⠀⠀⠀⠀<p align="center">
       ![](assets/images/toolbox.png)
      </p><br>
