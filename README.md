@@ -1,4 +1,4 @@
-<h4 align="center">Skills In My Toolbox</h4>
+<h3 align="center">Skills In My Toolbox:</h3>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
