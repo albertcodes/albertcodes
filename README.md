@@ -83,7 +83,7 @@
   </a>
 </p><br>
 <h3 align="center">Get In Touch:</h3>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/albertcodes_dev" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
       alt="twitter" width="40" height="40" />
