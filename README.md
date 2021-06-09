@@ -81,4 +81,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg"
       alt="appwrite" width="40" height="40" />
   </a>
+</p><br>
+<h3 align="center">Get In Touch:</h3>
+<p align="left">
+  <a href="https://twitter.com/albertcodes_dev" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+      alt="twitter" width="40" height="40" />
+  </a>
+  <a href="https://dribbble.com/albertcodes" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"
+      alt="dribble" width="40" height="40" />
+  </a>
 </p>
