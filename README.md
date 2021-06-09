@@ -1,6 +1,6 @@
-<p align="center">
-  ![](assets/images/toolbox.png)
-</p>
+⠀⠀⠀⠀<p align="center">
+      ![](assets/images/toolbox.png)
+     </p>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -81,3 +81,7 @@
       alt="appwrite" width="40" height="40" />
   </a>
 </p>
+<br>
+⠀⠀⠀⠀<p align="center">
+      ![](assets/images/contact.png)
+     </p>
