@@ -1,6 +1,4 @@
-⠀⠀⠀⠀<p align="center">
-      ![](assets/images/toolbox.png)
-     </p><br>
+<h4 align="center">Skills In My Toolbox</h4>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -81,7 +79,3 @@
       alt="appwrite" width="40" height="40" />
   </a>
 </p>
-<br>
-⠀⠀⠀⠀<span align="center">
-      ![](assets/images/toolbox.png)
-     </span>
