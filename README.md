@@ -1,3 +1,6 @@
+⠀⠀⠀⠀<p align="center">
+      ![](assets/images/i-love.gif)
+     </p>
 <h3 align="center">Skills In My Toolbox:</h3>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
