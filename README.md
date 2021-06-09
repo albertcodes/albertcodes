@@ -1,8 +1,5 @@
 ⠀⠀⠀⠀<p align="center">
       ![](assets/images/toolbox.png)
-     </p>
-⠀⠀⠀⠀<p align="center">
-      ![](assets/images/toolbox.png)
      </p><br>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -85,3 +82,6 @@
   </a>
 </p>
 <br>
+⠀⠀⠀⠀<p align="center">
+      ![](assets/images/toolbox.png)
+     </p>
