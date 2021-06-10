@@ -1,6 +1,6 @@
 <p>
   <img align="left" alt="contact" src="assets/images/welcome-rounded.png" width="141" height="125" />
-  <img align="center" alt="gif" src="assets/images/what-i-love-rounded.gif" width="318" height="120" />
+  <img align="center" alt="gif" src="assets/images/i-love-rounded.gif" width="318" height="120" />
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
