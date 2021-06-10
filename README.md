@@ -3,8 +3,8 @@
   <img align="right" alt="gif" src="assets/images/what-i-love.gif" />
 </p>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
-<h3 align="center">Skills In My Toolbox:</h3>
-<p align="center">
+<h3 align="left">Skills In My Toolbox:</h3>
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" />
@@ -84,8 +84,8 @@
       alt="appwrite" width="40" height="40" />
   </a>
 </p><br>
-<h3 align="center">Get In Touch:</h3>
-<p align="center">
+<h3 align="left">Get In Touch:</h3>
+<p align="left">
   <a href="https://twitter.com/albertcodes_dev" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
       alt="twitter" width="40" height="40" />
