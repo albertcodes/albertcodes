@@ -36,13 +36,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg"
       alt="couchdb" width="40" height="40" />
   </a>
-  <a href="https://www.apple.com/macos" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos"
-      width="40" height="40" />
+    <a href="https://www.meteor.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="meteor" width="40" height="40" />
   </a>
-  <a href="https://coffeescript.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg"
-      alt="coffeescript" width="40" height="40" />
+  <a href="https://appwrite.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg"
+      alt="appwrite" width="40" height="40" />
   </a><br>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -77,12 +76,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a>
-  <a href="https://www.meteor.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="meteor" width="40" height="40" />
+  <a href="https://coffeescript.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg"
+      alt="coffeescript" width="40" height="40" />
   </a>
-  <a href="https://appwrite.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg"
-      alt="appwrite" width="40" height="40" />
+  <a href="https://www.apple.com/macos" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos"
+      width="40" height="40" />
   </a>
 </p><br>
 <h3 align="left" style="color: #fe3f40;">Get In Touch:</h3>
