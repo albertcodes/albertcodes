@@ -4,7 +4,7 @@
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
-<h3 align="left">Skills In My Toolbox:</h3>
+<h3 align="left" style="color: #fe3f40;">Skills In My Toolbox:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -85,7 +85,7 @@
       alt="appwrite" width="40" height="40" />
   </a>
 </p><br>
-<h3 align="left">Get In Touch:</h3>
+<h3 align="left" style="color: #fe3f40;">Get In Touch:</h3>
 <p align="left">
   <a href="https://twitter.com/albertcodes_dev" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
