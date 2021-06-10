@@ -1,6 +1,8 @@
 ⠀⠀⠀⠀<p align="center">
-      ![](assets/images/i-love.gif)
+      ![](assets/images/what-i-love.gif)
      </p>
+
+<img align="right" alt="GIF" src="assets/images/what-i-love.gif" width="408" height="318" />
 <h3 align="center">Skills In My Toolbox:</h3>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -92,4 +94,10 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"
       alt="dribble" width="40" height="40" />
   </a>
+</p>
+<p>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=albertcodes&show_icons=true&theme=vue&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcodes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
