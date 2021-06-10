@@ -1,6 +1,6 @@
 <p>
-  <img align="left" alt="contact" src="assets/images/welcome.png" width="174" height="150" />
-  <img align="center" alt="gif" src="assets/images/what-i-love.gif" width="500" height="150" />
+  <img align="left" alt="contact" src="assets/images/welcome.png" width="163" height="140" />
+  <img align="center" alt="gif" src="assets/images/what-i-love.gif" width="400" height="120" />
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
