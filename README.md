@@ -1,9 +1,10 @@
 <p>
-  <img align="left" alt="contact" src="assets/images/hello.png" />
+  <img align="left" alt="contact" src="assets/images/welcome.png" />
   <img align="center" alt="gif" src="assets/images/what-i-love.gif" />
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
-<h3 align="left">Skills In My Toolbox:</h3>
+<br>
+<img align="left" alt="contact" src="assets/images/toolbox.png" />
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
