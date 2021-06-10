@@ -1,5 +1,5 @@
 <p>
-  <img align="left" alt="contact" src="assets/images/welcome.png" />
+  <img align="left" alt="contact" src="assets/images/welcome.png" width="139" height="120" />
   <img align="center" alt="gif" src="assets/images/what-i-love.gif" width="400" height="120" />
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
