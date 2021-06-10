@@ -4,7 +4,7 @@
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
-<img align="left" alt="contact" src="assets/images/toolbox.png" width="204" height="40" /><br>
+<h3><img align="left" alt="contact" src="assets/images/toolbox.png" width="204" height="40" /></h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
