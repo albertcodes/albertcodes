@@ -2,7 +2,7 @@
   <img align="left" alt="contact" src="assets/images/welcome.png" width="139" height="120" />
   <img align="center" alt="gif" src="assets/images/what-i-love.gif" width="400" height="120" />
 </p><br>
-<img align="center" alt="contact" src="assets/images/contact-decoration.png" />
+<img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
 <h3 align="left" style="color: #fe3f40;">Skills In My Toolbox:</h3>
 <p align="left">
