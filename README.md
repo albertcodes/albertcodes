@@ -1,5 +1,7 @@
-<img align="center" alt="contact" src="assets/images/hello.png" />
-<img align="center" alt="gif" src="assets/images/what-i-love.gif" />
+<p>
+  <img align="left" alt="contact" src="assets/images/hello.png" />
+  <img align="right" alt="gif" src="assets/images/what-i-love.gif" />
+</p>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <h3 align="center">Skills In My Toolbox:</h3>
 <p align="center">
