@@ -4,7 +4,7 @@
 </p><br>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
-<h3 align="left" style="color: #fe3f40;">Skills In My Toolbox:</h3>
+<h3 align="left">Skills In My Toolbox:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -51,10 +51,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"
       width="40" height="40" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"
-      width="40" height="40" />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
@@ -62,6 +58,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"
+      width="40" height="40" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue"
@@ -85,7 +85,7 @@
       alt="coffeescript" width="40" height="40" />
   </a>
 </p><br>
-### Get In Touch:
+<h3 align="left">Get In Touch:</h3>
 <p align="left">
   <a href="https://twitter.com/albertcodes_dev" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
