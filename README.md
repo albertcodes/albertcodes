@@ -108,9 +108,6 @@
   <a href="https://albertcodes.dev" target="blank">
     <img src="assets/images/planet.png" alt="webpage" width="40" height="40" />
   </a>
-  <a href="https://github.com/albertcodes" target="blank">
-    <img src="assets/images/saturn.png" alt="profile" width="40" height="40" />
-  </a>
 </p>
 <p>
   <img align="left" height="180em"
