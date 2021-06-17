@@ -7,7 +7,7 @@
 </p>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
 <br>
-<h3 align="left">Skills In My Toolbox:</h3>
+<h3 align="left">Toolbox:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -96,7 +96,7 @@
       alt="coffeescript" width="40" height="40" />
   </a>
 </p><br>
-<h3 align="left">Get In Touch:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
   <a href="https://twitter.com/albertcodes_dev" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
@@ -108,7 +108,7 @@
 </p>
 <p>
   <img align="left" height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=albertcodes&bg_color=ffffff&show_icons=true&title_color=fe3f40&icon_color=000000&hide_border=true&&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=albertcodes&custom_title=GitHub Stats:&bg_color=ffffff&show_icons=true&title_color=fe3f40&icon_color=000000&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="center" height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcodes&bg_color=ffffff&show_icons=true&title_color=fe3f40&hide_border=true&layout=compact&langs_count=10" width="350" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcodes&custom_title=Codebase:&bg_color=ffffff&show_icons=true&title_color=fe3f40&hide_border=true&layout=compact&langs_count=10" width="350" />
 </p>
