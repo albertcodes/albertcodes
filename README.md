@@ -1,7 +1,7 @@
 <p>
   <img align="left" alt="contact" src="assets/images/welcome-rounded.png" width="141" height="125" />
   <img align="center" alt="streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=albertcodes&hide_border=true&stroke=ffffff00&background=ffffff00&ring=fe3f40&fire=fe3f40&currStreakLabel=fe3f40" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=albertcodes&hide_border=true&stroke=ffffff00&background=ffffff&ring=fe3f40&fire=fe3f40&currStreakLabel=fe3f40" 
        width="390" height="140" />
   <img align="center" alt="gif" src="assets/images/i-love-rounded.gif" width="265" height="100" />
 </p>
