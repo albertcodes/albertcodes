@@ -100,7 +100,7 @@
 </p>
 <p>
   <img align="left" height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=albertcodes&show_icons=true&theme=vue&hide_border=true&&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=albertcodes&bg_color=ffffff&show_icons=true&title_color=fe3f40&icon_color=000000&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="center" height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcodes&exclude_repo=albertcodes=true&show_icons=true&theme=vue&hide_border=true&layout=compact&langs_count=10" width="350" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcodes&bg_color=ffffff&show_icons=true&title_color=fe3f40&hide_border=true&layout=compact&langs_count=10" width="350" />
 </p>
