@@ -2,7 +2,7 @@
   <img align="left" alt="contact" src="assets/images/welcome-rounded.png" width="141" height="125" />
   <img align="center" alt="streak" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=albertcodes&hide_border=true&stroke=ffffff00&background=ffffff&ring=fe3f40&fire=fe3f40&currStreakLabel=fe3f40" 
-       width="390" height="140" />
+       width="390" height="125" />
   <img align="center" alt="gif" src="assets/images/i-love-rounded.gif" width="265" height="100" />
 </p>
 <img align="right" alt="contact" src="assets/images/contact-decoration.png" />
@@ -108,7 +108,7 @@
   <a href="https://dribbble.com/albertcodes" target="blank">
     <img src="assets/images/dribbble.svg" alt="dribble" width="40" height="40" />
   </a>
-</p>
+</p><br>
 <p>
   <img align="left" height="180em"
     src="https://github-readme-stats.vercel.app/api?username=albertcodes&custom_title=GitHub Stats:&bg_color=ffffff&show_icons=true&title_color=fe3f40&icon_color=000000&hide_border=true&&count_private=true&include_all_commits=true" />
